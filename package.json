@@ -1,9 +1,12 @@
 {
   "name": "ytmirror",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "YTMirror",
   "main": "server.js",
   "author": {
     "name": ""
+  },
+  "dependencies": {
+    "express": "^4.16.3"
   }
 }
